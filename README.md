@@ -1,5 +1,6 @@
 # FIIS
-Simulador Investimentos Fundos Imobiliários - Santander - Excel com Inteligência Artificial - Bootcamp DIO
+Simulador Investimentos Fundos Imobiliários - Santander - Excel com Inteligência Artificial - Bootcamp DIO.
+
 Para este simulador, utilizei todo o conteúdo aprendido no curso até então:
 * Validação de dados: para definir os dados aceitos em determinadas cells;
 * Formatação condiciona: para formatar automáticamente as cells de acordo com um conteúdo pré programado;
